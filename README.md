@@ -20,11 +20,10 @@ Desenvolvedor em formação, focado em construir uma base sólida em lógica de 
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Otavio-tod&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-repos/?username=Otavio-tod&layout=compact&theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio-tod&theme=react-dark" alt="Gráfico de Atividade" width="100%" />
 </p>
 
 ---
