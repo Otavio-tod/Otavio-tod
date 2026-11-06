@@ -20,14 +20,6 @@ Desenvolvedor em formação, focado em construir uma base sólida em lógica de 
 
 ---
 
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio-tod&theme=react-dark" alt="Gráfico de Atividade" width="100%" />
-</p>
-
----
-
 <p align="center">
   <i>"A consistência é a chave para aprender a programar."</i>
 </p>
